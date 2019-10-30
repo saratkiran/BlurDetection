@@ -8,3 +8,5 @@ How to test a image for bluriness ?
 2. Set the path of the folder(in which the image is located) in IMG_PATH and IMG_PATH2 strings
 3. Set image name in test_edge_detection function in main.
 4. Click RUN.
+
+An optional way can be to actually implement the logic behind blur detection by Open CV. It can reduce the apk size greatly.
